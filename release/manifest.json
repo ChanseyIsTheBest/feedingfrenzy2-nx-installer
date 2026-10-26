@@ -1,0 +1,223 @@
+{
+  "version": 1,
+  "builds": [
+    {
+      "edition": "Xbox Live Arcade (title 5841088C)",
+      "version": "1.0.0",
+      "xex_sha256": "7aa692ae9b319cc226760288311d3e5133d37637bb579bea11392e26f3060371",
+      "game_files": [
+        {
+          "path": "32_5841088C0002000100010001.png",
+          "size": 2593
+        },
+        {
+          "path": "32_5841088C0002000200010002.png",
+          "size": 2608
+        },
+        {
+          "path": "64_5841088C0002000100010001.png",
+          "size": 8098
+        },
+        {
+          "path": "64_5841088C0002000200010002.png",
+          "size": 8500
+        },
+        {
+          "path": "Ach_03.png",
+          "size": 28859
+        },
+        {
+          "path": "Ach_04.png",
+          "size": 8560
+        },
+        {
+          "path": "Ach_05.png",
+          "size": 6295
+        },
+        {
+          "path": "Ach_06.png",
+          "size": 7414
+        },
+        {
+          "path": "Ach_07.png",
+          "size": 7224
+        },
+        {
+          "path": "Ach_08.png",
+          "size": 9982
+        },
+        {
+          "path": "Ach_09.png",
+          "size": 6633
+        },
+        {
+          "path": "Ach_10.png",
+          "size": 8080
+        },
+        {
+          "path": "Ach_11.png",
+          "size": 8252
+        },
+        {
+          "path": "Ach_12.png",
+          "size": 8558
+        },
+        {
+          "path": "ArcadeInfo.xml",
+          "size": 8606
+        },
+        {
+          "path": "Barracuda bully.png",
+          "size": 8560
+        },
+        {
+          "path": "First upgrade.png",
+          "size": 8252
+        },
+        {
+          "path": "Flipin Good time.png",
+          "size": 6295
+        },
+        {
+          "path": "Full tank.png",
+          "size": 6633
+        },
+        {
+          "path": "Life of the party.png",
+          "size": 7391
+        },
+        {
+          "path": "Mega frenzy.png",
+          "size": 7224
+        },
+        {
+          "path": "Night time fill up.png",
+          "size": 8215
+        },
+        {
+          "path": "Rating_CERO_A.png",
+          "size": 7633
+        },
+        {
+          "path": "Rating_ESRB_E.png",
+          "size": 4514
+        },
+        {
+          "path": "Rating_GRB_ALL.png",
+          "size": 4542
+        },
+        {
+          "path": "Rating_OFLC_G.png",
+          "size": 1122
+        },
+        {
+          "path": "Rating_PEGI_3.png",
+          "size": 14168
+        },
+        {
+          "path": "Rating_PEGI_4.png",
+          "size": 14094
+        },
+        {
+          "path": "Rating_USK_A.png",
+          "size": 1864
+        },
+        {
+          "path": "Resource/bootstrap.xpr",
+          "size": 67596
+        },
+        {
+          "path": "Resource/lang.common_figs.xpr",
+          "size": 294924
+        },
+        {
+          "path": "Resource/lang.de.xpr",
+          "size": 317452
+        },
+        {
+          "path": "Resource/lang.en.xpr",
+          "size": 536588
+        },
+        {
+          "path": "Resource/lang.es.xpr",
+          "size": 305164
+        },
+        {
+          "path": "Resource/lang.fr.xpr",
+          "size": 323596
+        },
+        {
+          "path": "Resource/lang.it.xpr",
+          "size": 315404
+        },
+        {
+          "path": "Resource/lang.jp.xpr",
+          "size": 4073484
+        },
+        {
+          "path": "Resource/lang.kr.xpr",
+          "size": 2824204
+        },
+        {
+          "path": "Resource/lang.pt.xpr",
+          "size": 309260
+        },
+        {
+          "path": "Resource/lang.tc.xpr",
+          "size": 5726220
+        },
+        {
+          "path": "Resource/resources.xpr",
+          "size": 14168076
+        },
+        {
+          "path": "Resource/resources2.xpr",
+          "size": 28164108
+        },
+        {
+          "path": "School Teacher.png",
+          "size": 9982
+        },
+        {
+          "path": "The intruder.png",
+          "size": 8080
+        },
+        {
+          "path": "Time Attack.png",
+          "size": 9413
+        },
+        {
+          "path": "Tournament Master.png",
+          "size": 8558
+        },
+        {
+          "path": "Well Defended.png",
+          "size": 7414
+        },
+        {
+          "path": "Well Fed.png",
+          "size": 8252
+        },
+        {
+          "path": "ach_01.png",
+          "size": 8252
+        },
+        {
+          "path": "ach_02.png",
+          "size": 7391
+        },
+        {
+          "path": "default.xex",
+          "size": 2060288
+        },
+        {
+          "path": "title_image.png",
+          "size": 7601
+        }
+      ],
+      "nro": "feedingfrenzy2.nro",
+      "nro_sha256": "d3caf767177d372358083a98002dbcfa240cfb401b2cbd7a2c610027376ec0a5",
+      "nro_size": 29873551
+    }
+  ]
+}
